@@ -1,0 +1,51 @@
+id,date,name,speciesName,randomData
+1,6/15/2017,Caracal,Felis caracal,1.8575444003
+2,11/1/2016,"Nutcracker, clark's",Nucifraga columbiana,0.2151707275
+3,12/2/2016,"Coatimundi, ring-tailed",Nasua nasua,2.7306094836
+4,5/8/2017,Small-toothed palm civet,Arctogalidia trivirgata,0.0771364682
+5,10/6/2016,"Crocodile, nile",Crocodylus niloticus,0.1147507473
+6,11/2/2016,"Phalarope, red",Phalaropus fulicarius,0.1725880606
+7,4/12/2017,Blue and yellow macaw,Ara ararauna,2.0937293806
+8,9/3/2016,Grey fox,Vulpes cinereoargenteus,0.0281052431
+9,10/2/2016,"Loris, slender",Loris tardigratus,2.8532197753
+10,12/31/2016,"Tortoise, galapagos",Geochelone elephantopus,0.590337447
+11,5/28/2017,American woodcock,Scolopax minor,4.1544873589
+12,4/8/2017,"Crane, brolga",Grus rubicundus,0.343634538
+13,5/28/2017,Eurasian beaver,Castor fiber,0.0043577901
+14,11/26/2016,"Sparrow, house",Passer domesticus,0.4012412374
+15,3/11/2017,"Deer, red",Cervus elaphus,0.0971723805
+16,6/25/2017,Madagascar fruit bat,Pteropus rufus,0.8434154699
+17,9/2/2016,White-throated kingfisher,Halcyon smyrnesis,2.7438188196
+18,10/10/2016,Salmon pink bird eater tarantula,Lasiodora parahybana,0.9520065358
+19,12/11/2016,"Bird, red-billed tropic",Phaethon aethereus,0.3457865834
+20,12/26/2016,Tree porcupine,Coendou prehensilis,3.3311094635
+21,1/10/2017,"Goat, mountain",Oreamnos americanus,2.6896484933
+22,7/9/2017,"Lion, steller sea",Eumetopias jubatus,0.957878106
+23,6/13/2017,Southern right whale,Eubalaena australis,0.4501478917
+24,6/24/2017,"Heron, gray",Ardea cinerea,3.0652060453
+25,11/6/2016,Giant anteater,Myrmecophaga tridactyla,1.8533423039
+26,2/4/2017,White-fronted bee-eater,Merops bullockoides,0.0648766096
+27,2/6/2017,Ovenbird,Seiurus aurocapillus,0.2510097737
+28,9/15/2016,"Cormorant, great",Phalacrocorax carbo,0.1585765789
+29,6/30/2017,"Jackal, asiatic",Canis aureus,0.7902108381
+30,10/8/2016,Greater rhea,Rhea americana,2.2671324524
+31,4/18/2017,Comb duck,Sarkidornis melanotos,0.0042813852
+32,1/10/2017,Pied avocet,Recurvirostra avosetta,0.6316010726
+33,4/2/2017,"Quoll, eastern",Dasyurus viverrinus,1.6578355528
+34,11/4/2016,Gila monster,Heloderma horridum,0.3671658352
+35,5/24/2017,"Waterbuck, defassa",Kobus defassa,1.2151303418
+36,6/25/2017,Snow goose,Anser caerulescens,1.6910844151
+37,12/31/2016,Red hartebeest,Alcelaphus buselaphus caama,1.0018406302
+38,1/9/2017,"Jackal, indian",Canis aureus,2.4679874801
+39,6/10/2017,"Parrot, hawk-headed",Deroptyus accipitrinus,0.0656274752
+40,1/27/2017,"Falcon, peregrine",Falco peregrinus,0.7349299545
+41,1/10/2017,Tiger snake,Notechis semmiannulatus,1.8970301409
+42,4/2/2017,African polecat,Ictonyx striatus,2.3170698841
+43,5/15/2017,Horned lark,Eremophila alpestris,0.2409787432
+44,8/17/2016,"Marten, american",Martes americana,0.565007979
+45,12/19/2016,"Bettong, brush-tailed",Bettongia penicillata,1.6375038939
+46,10/1/2016,"Cow, scottish highland",Bos taurus,0.0846426848
+47,2/12/2017,Kirk's dik dik,Madoqua kirkii,1.109749817
+48,8/29/2016,Gerenuk,Litrocranius walleri,1.3382806691
+49,4/1/2017,"Rattlesnake, horned",Crotalus cerastes,1.0320691007
+50,7/4/2017,Australian masked owl,Tyto novaehollandiae,0.6753677909
